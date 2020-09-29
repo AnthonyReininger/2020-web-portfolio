@@ -14,10 +14,7 @@ body {
 }
 
 .cta {
-    border-radius: 0px 0px 0px 0px;
-    -moz-border-radius: 0px 0px 0px 0px;
-    -webkit-border-radius: 0px 0px 0px 0px;
-    border: 2px dotted #000000;
+    font-family: 'Special Elite', cursive !important;
 }
 
 .bold-logo {
